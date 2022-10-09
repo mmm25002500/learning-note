@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b95498f341b54975",
+        "id": "6969382b2b14db05",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source",
+            "file": "紀錄/2022/10/2022-10-08.md.md",
+            "mode": "preview",
             "source": false
-          }
+          },
+          "pinned": true
         }
       }
     ],
@@ -61,7 +63,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "67080531e6a21682",
@@ -77,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "紀錄/2022/10/2022-10-08.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "紀錄/2022/10/2022-10-08.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,17 +120,39 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "紀錄/2022/10/2022-10-08.md.md"
               }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "68abcbd58d789ed5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b95498f341b54975",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 279,
     "collapsed": true
   },
-  "active": "b95498f341b54975",
-  "lastOpenFiles": []
+  "active": "6969382b2b14db05",
+  "lastOpenFiles": [
+    "紀錄/2022/10/2022-10-09.md.md",
+    "紀錄/2022/10/2022-10-08.md.md",
+    "紀錄/範本.md.md",
+    "紀錄/abc.md.md",
+    "筆記/筆記.md",
+    "README.md"
+  ]
 }
