@@ -16,6 +16,18 @@
           },
           "pinned": true
         }
+      },
+      {
+        "id": "dc00b887ff979446",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -63,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "67080531e6a21682",
@@ -80,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "紀錄/2022/10/2022-10-08.md.md",
+                "file": "README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "紀錄/2022/10/2022-10-08.md.md",
+                "file": "README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "紀錄/2022/10/2022-10-08.md.md"
+                "file": "README.md.md"
               }
             }
           }
@@ -146,13 +157,15 @@
     "width": 279,
     "collapsed": true
   },
-  "active": "6969382b2b14db05",
+  "active": "dc00b887ff979446",
   "lastOpenFiles": [
-    "紀錄/2022/10/2022-10-09.md.md",
+    "筆記/README.md.md",
+    "紀錄/README.md.md",
     "紀錄/2022/10/2022-10-08.md.md",
+    "紀錄/2022/10/2022-10-09.md.md",
     "紀錄/範本.md.md",
     "紀錄/abc.md.md",
     "筆記/筆記.md",
-    "README.md"
+    "README.md.md"
   ]
 }
